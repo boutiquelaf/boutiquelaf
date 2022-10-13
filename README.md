@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**boutiquelaf/boutiquelaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**boutiquelaf/boutiquelaf** is a ✨ clothing store online _ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
